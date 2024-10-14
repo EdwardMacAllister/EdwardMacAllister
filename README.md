@@ -25,12 +25,3 @@ readme_content = """
 ![GitHub статистика](https://github-readme-stats.vercel.app/api?username=EdwardMacAllister&show_icons=true&theme=radical)
 """
 
-# Define the file path for the README file
-readme_file_path = '/mnt/data/README.md'
-
-# Write the content to the file
-with open(readme_file_path, 'w') as file:
-    file.write(readme_content)
-
-readme_file_path  # Return the path to the generated README.md file
-Результат
