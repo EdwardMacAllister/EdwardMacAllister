@@ -17,7 +17,7 @@ readme_content = """
 - 🛠️ Инструменты: Flask, SQLAlchemy, Aiogram, Docker, Git
 
 ## 🚀 Проекты:
-- [Telegram Warehouse Management Bot]([https://github.com/EdwardMacAllister/telegram-warehouse](https://github.com/EdwardMacAllister/warehouse.git)) — Бот для управления складом на базе Telegram.
+- [Telegram Warehouse Management Bot]([https://github.com/EdwardMacAllister/telegram-warehouse.git](https://github.com/EdwardMacAllister/warehouse.git)) — Бот для управления складом на базе Telegram.
 
 ## 📊 Моя статистика GitHub:
 
