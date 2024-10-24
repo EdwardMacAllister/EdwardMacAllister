@@ -41,17 +41,6 @@ readme_content = """
 ### Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EdwardMacAllister&theme=radical)
 
-## 📚 Diagrams
-
-### Project Overview
-![Project Overview](diagrams/project_overview_diagram.png)
-
-### Logging Flowchart
-![Logging Flowchart](diagrams/logging_flowchart.png)
-
-### Database Schema
-![Database Schema](diagrams/database_schema_diagram.png)
-
 ## 🌟 Acknowledgements
 Thanks for visiting my profile! Your support motivates me to keep improving. 🚀
 """
