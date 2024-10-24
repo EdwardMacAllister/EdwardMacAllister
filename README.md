@@ -12,7 +12,7 @@ readme_content = """
 - 🔭 Working on the **Telegram Warehouse Management Bot**.
 - 📫 Feel free to reach out to me via:
   - [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/EdwardMacAllister) **Telegram**
-  - [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:edwardmacallister73@gmail.com) **Email**
+  - [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:edwardmacallister73@gmail.com) **Gmail**
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edward-macallister/) **LinkedIn**
   - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/EdMacAlli) **Twitter**
   - [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=61567400915677) **Facebook**
