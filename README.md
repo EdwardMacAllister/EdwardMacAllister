@@ -11,12 +11,12 @@ readme_content = """
 - 🌱 I'm currently studying Python and Telegram bot development.
 - 🔭 Working on the **Telegram Warehouse Management Bot**.
 - 📫 Feel free to reach out to me via:
-  - [![Telegram]][(https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/EdwardMacAllister)
-  - [![Gmail]](mailto:edwardmacallister73@gmail.com)
-  - [![LinkedIn]](https://www.linkedin.com/in/edward-macallister/)
-  - [![Twitter]]([https://twitter.com/YourTwitterHandle](https://x.com/EdMacAlli))
-  - [![Facebook]]([https://www.facebook.com/YourFacebookProfile](https://www.facebook.com/profile.php?id=61567400915677))
-  - [![Kwork]]([https://kwork.ru/user/YourKworkProfile](https://kwork.ru/user/edwardmacallister))
+  - [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/EdwardMacAllister)
+  - [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:edwardmacallister73@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edward-macallister/)
+  - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)]([https://twitter.com/YourTwitterHandle](https://x.com/EdMacAlli))
+  - [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)]([https://www.facebook.com/YourFacebookProfile](https://www.facebook.com/profile.php?id=61567400915677))
+  - [![Kwork](https://img.shields.io/badge/Kwork-orange?style=flat&logo=kwork)]([https://kwork.ru/user/YourKworkProfile](https://kwork.ru/user/edwardmacallister))
 
 ## My Skills:
 - 💻 Languages: Python, JavaScript, SQL
