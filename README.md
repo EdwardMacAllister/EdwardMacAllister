@@ -11,7 +11,7 @@ readme_content = """
 - 🌱 I'm currently studying Python and Telegram bot development.
 - 🔭 Working on the **Telegram Warehouse Management Bot**.
 - 📫 Feel free to reach out to me via:
-  - [![Telegram]](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)(https://t.me/EdwardMacAllister)
+  - [![Telegram]][(https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/EdwardMacAllister)
   - [![Gmail]](mailto:edwardmacallister73@gmail.com)
   - [![LinkedIn]](https://www.linkedin.com/in/edward-macallister/)
   - [![Twitter]]([https://twitter.com/YourTwitterHandle](https://x.com/EdMacAlli))
