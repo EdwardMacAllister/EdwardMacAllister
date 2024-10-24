@@ -1,27 +1,56 @@
 readme_content = """
-# Привет, меня зовут Edward MacAllister! 👋
+# Hello, I'm Edward MacAllister! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=EdwardMacAllister&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=EdwardMacAllister&color=brightgreen) ![Stars](https://img.shields.io/github/stars/EdwardMacAllister?style=social)
 
 ## 🚧 Current Status:
 - 📦 Working on the **Telegram Warehouse Management Bot**.
 - 🌱 Currently enhancing my Python and AI skills.
 
-## О себе
-- 🌱 В настоящее время изучаю Python и разработку ботов Telegram.
-- 🔭 Работаю над проектом **Telegram Warehouse Management Bot**.
-- 📫 Свяжитесь со мной через Telegram: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/EdwardMacAllister)
+## About Me
+- 🌱 I'm currently studying Python and Telegram bot development.
+- 🔭 Working on the **Telegram Warehouse Management Bot**.
+- 📫 Feel free to reach out to me via:
+  - [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/EdwardMacAllister)
+  - [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:edward.macallister@example.com)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile/)
+  - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/YourTwitterHandle)
+  - [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/YourFacebookProfile)
 
-## Мои навыки:
-- 💻 Языки: Python, JavaScript, SQL
-- 🛠️ Инструменты: Flask, SQLAlchemy, Aiogram, Docker, Git
+## My Skills:
+- 💻 Languages: Python, JavaScript, SQL
+- 🛠️ Tools: Flask, SQLAlchemy, Aiogram, Docker, Git
 
-## 🚀 Проекты:
-- [Telegram Warehouse Management Bot](https://github.com/EdwardMacAllister/warehouse.git) — Бот для управления складом на базе Telegram.
+## 🚀 Projects:
+- [Telegram Warehouse Management Bot](https://github.com/EdwardMacAllister/warehouse.git) — A Telegram bot for warehouse management.
 
-## 📊 Моя статистика GitHub:
+## 📊 My GitHub Statistics:
 
-![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardMacAllister&layout=compact&theme=radical)
-![GitHub статистика](https://github-readme-stats.vercel.app/api?username=EdwardMacAllister&show_icons=true&theme=radical)
+![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardMacAllister&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwardMacAllister&show_icons=true&theme=radical)
+
+## 📈 My Activity:
+
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=EdwardMacAllister&color=brightgreen)
+
+### Stars Received
+![Stars](https://img.shields.io/github/stars/EdwardMacAllister?style=social)
+
+### Contributions
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EdwardMacAllister&theme=radical)
+
+## 📚 Diagrams
+
+### Project Overview
+![Project Overview](diagrams/project_overview_diagram.png)
+
+### Logging Flowchart
+![Logging Flowchart](diagrams/logging_flowchart.png)
+
+### Database Schema
+![Database Schema](diagrams/database_schema_diagram.png)
+
+## 🌟 Acknowledgements
+Thanks for visiting my profile! Your support motivates me to keep improving. 🚀
 """
-
